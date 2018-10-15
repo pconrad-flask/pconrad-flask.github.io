@@ -1,6 +1,8 @@
 ---
-topic: Phill Conrad's Webapp Tutorial Collection
+topic: "Flask: Webapps built with Python"
 ---
+
+A collection of tutorials curated by [Phill Conrad](https://www.cs.ucsb.edu/~pconrad)
 
 ## Topics
 <ul>
