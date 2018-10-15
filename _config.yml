@@ -1,5 +1,5 @@
-site_name: "pconrad-webapps"
-github_url: "https://github.com/pconrad-webapps/pconrad-webapps.github.io"
+site_name: "pconrad-flask"
+github_url: "https://github.com/pconrad-webapps/pconrad-flask.github.io"
 
 exclude: [vendor]
 
