@@ -477,3 +477,6 @@ Click [here](/webapps/oauth_deploy_examples) to go to the next part of this less
 
 * <https://developer.github.com/v3/oauth/#scopes>
 
+# Sample Applications
+
+* <https://github.com/ucsd-cse-spis-2017/spis16-webapps-oauth-github-org-example>
