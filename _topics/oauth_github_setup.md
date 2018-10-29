@@ -16,7 +16,7 @@ To get there:
 3. Click the "Register a New Application" button.
 
 
-![The page that shows the callback url](/images/webapps_topics/oauth-flask-urls-50.png)
+![The page that shows the callback url](oauth-flask-urls-50.png)
 
-![The page with the GITHUB_CLIENT_ID and GITHUB_CLIENT_SECRET](/images/webapps_topics/github-client-id-and-client-secret-example-50.png)
+![The page with the GITHUB_CLIENT_ID and GITHUB_CLIENT_SECRET](github-client-id-and-client-secret-example-50.png)
 
