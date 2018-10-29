@@ -1,0 +1,8 @@
+---
+topic: "OAuth: Flask-Social"
+desc: "A package to enable login with Facebook and other Social Media platforms"
+layout: default
+indent: true
+---
+
+See: <https://pythonhosted.org/Flask-Social/>
