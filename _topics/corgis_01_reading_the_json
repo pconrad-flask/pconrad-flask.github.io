@@ -1,0 +1,10 @@
+---
+topic: "Corgis: (1) Reading the JSON"
+desc: "Reading the JSON for a Corgis dataset"
+category_prefix: "Corgis: "
+---
+
+The first step in working with a Corgis dataset is making sure we understand how to work with the JSON in some Python code.
+
+Here is an example of reading the Airline data using some simple Python code:
+
