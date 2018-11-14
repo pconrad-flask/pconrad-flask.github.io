@@ -1,5 +1,6 @@
 site_name: "pconrad-flask"
 github_url: "https://github.com/pconrad-flask/pconrad-flask.github.io"
+github_org: "https://github.com/pconrad-flask/"
 
 exclude: [vendor]
 
