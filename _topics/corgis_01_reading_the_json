@@ -6,5 +6,8 @@ category_prefix: "Corgis: "
 
 The first step in working with a Corgis dataset is making sure we understand how to work with the JSON in some Python code.
 
-Here is an example of reading the Airline data using some simple Python code:
+As an example, consider the Airlines data:
+* <https://think.cs.vt.edu/corgis/json/airlines/airlines.html>
+
+
 
